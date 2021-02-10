@@ -1,0 +1,13 @@
+.dogintro {
+    color:darkmagenta;
+}
+#sampletext {
+    font-style: italic;
+}
+.container-for-name {
+    border-style: solid;
+    border-width: 3px;
+    border-color: deeppink;
+    background-color: plum;
+    padding: 10px;
+}
