@@ -1,3 +1,8 @@
+* { 
+    font-family: 'Caveat', cursive;
+    margin: 0; padding: 0; border: 0; font-size: 100%; 
+}
+
 .dogintro {
     color:darkmagenta;
 }
@@ -10,4 +15,12 @@
     border-color: deeppink;
     background-color: plum;
     padding: 10px;
+}
+body {
+    background-image: url(../images/d625045f0b22faf8d8ab3bd236f86085.jpg);
+}
+.content {
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: plum;
 }
